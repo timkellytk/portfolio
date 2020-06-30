@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.63db64ce.chunk.css",
-    "main.js": "/static/js/main.8c2e8f8d.chunk.js",
-    "main.js.map": "/static/js/main.8c2e8f8d.chunk.js.map",
+    "main.css": "/static/css/main.e14caa95.chunk.css",
+    "main.js": "/static/js/main.a39e23f4.chunk.js",
+    "main.js.map": "/static/js/main.a39e23f4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
     "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
-    "static/js/2.9afc0ec9.chunk.js": "/static/js/2.9afc0ec9.chunk.js",
-    "static/js/2.9afc0ec9.chunk.js.map": "/static/js/2.9afc0ec9.chunk.js.map",
+    "static/js/2.2b1378da.chunk.js": "/static/js/2.2b1378da.chunk.js",
+    "static/js/2.2b1378da.chunk.js.map": "/static/js/2.2b1378da.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.4819be61817209b7045efacd6b50c0cd.js": "/precache-manifest.4819be61817209b7045efacd6b50c0cd.js",
+    "precache-manifest.e4845c4a102b2972ea2aa1ea3a321851.js": "/precache-manifest.e4845c4a102b2972ea2aa1ea3a321851.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.63db64ce.chunk.css.map": "/static/css/main.63db64ce.chunk.css.map",
-    "static/js/2.9afc0ec9.chunk.js.LICENSE.txt": "/static/js/2.9afc0ec9.chunk.js.LICENSE.txt",
+    "static/css/main.e14caa95.chunk.css.map": "/static/css/main.e14caa95.chunk.css.map",
+    "static/js/2.2b1378da.chunk.js.LICENSE.txt": "/static/js/2.2b1378da.chunk.js.LICENSE.txt",
     "static/media/about.png": "/static/media/about.edac9f3a.png",
     "static/media/arrow-icon.svg": "/static/media/arrow-icon.f792ea8c.svg",
     "static/media/back-arrow.svg": "/static/media/back-arrow.42a04515.svg",
+    "static/media/back-end-rambler.png": "/static/media/back-end-rambler.05a75ef3.png",
     "static/media/blog-author.png": "/static/media/blog-author.0ced25a9.png",
     "static/media/blog-content.png": "/static/media/blog-content.4d2f8305.png",
     "static/media/blog-full-image.png": "/static/media/blog-full-image.583fa3c0.png",
@@ -51,6 +52,7 @@
     "static/media/resume.pdf": "/static/media/resume.f06a223a.pdf",
     "static/media/reviews.png": "/static/media/reviews.c84e075c.png",
     "static/media/rock-paper-scissors.png": "/static/media/rock-paper-scissors.d1717ce9.png",
+    "static/media/speed-score-evolutionary.png": "/static/media/speed-score-evolutionary.113bbe83.png",
     "static/media/sydney.png": "/static/media/sydney.8fe86d35.png",
     "static/media/tic-tac-toe.png": "/static/media/tic-tac-toe.22049954.png",
     "static/media/tickpoints.png": "/static/media/tickpoints.9a8fbeb6.png",
@@ -62,8 +64,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.19ccc7f6.js",
-    "static/js/2.9afc0ec9.chunk.js",
-    "static/css/main.63db64ce.chunk.css",
-    "static/js/main.8c2e8f8d.chunk.js"
+    "static/js/2.2b1378da.chunk.js",
+    "static/css/main.e14caa95.chunk.css",
+    "static/js/main.a39e23f4.chunk.js"
   ]
 }
