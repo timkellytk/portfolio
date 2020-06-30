@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.cf562bd5.chunk.css",
-    "main.js": "/static/js/main.724e8f8a.chunk.js",
-    "main.js.map": "/static/js/main.724e8f8a.chunk.js.map",
+    "main.css": "/static/css/main.5b0446a3.chunk.css",
+    "main.js": "/static/js/main.64d6c220.chunk.js",
+    "main.js.map": "/static/js/main.64d6c220.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
     "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
-    "static/js/2.2b1378da.chunk.js": "/static/js/2.2b1378da.chunk.js",
-    "static/js/2.2b1378da.chunk.js.map": "/static/js/2.2b1378da.chunk.js.map",
+    "static/js/2.66cb5193.chunk.js": "/static/js/2.66cb5193.chunk.js",
+    "static/js/2.66cb5193.chunk.js.map": "/static/js/2.66cb5193.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.b5c100fc160a3ad58daf15f12814eea7.js": "/precache-manifest.b5c100fc160a3ad58daf15f12814eea7.js",
+    "precache-manifest.ad29cf24ed318444ae561cb55c07ad94.js": "/precache-manifest.ad29cf24ed318444ae561cb55c07ad94.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.cf562bd5.chunk.css.map": "/static/css/main.cf562bd5.chunk.css.map",
-    "static/js/2.2b1378da.chunk.js.LICENSE.txt": "/static/js/2.2b1378da.chunk.js.LICENSE.txt",
+    "static/css/main.5b0446a3.chunk.css.map": "/static/css/main.5b0446a3.chunk.css.map",
+    "static/js/2.66cb5193.chunk.js.LICENSE.txt": "/static/js/2.66cb5193.chunk.js.LICENSE.txt",
     "static/media/about.png": "/static/media/about.edac9f3a.png",
     "static/media/arrow-icon.svg": "/static/media/arrow-icon.f792ea8c.svg",
     "static/media/back-arrow.svg": "/static/media/back-arrow.42a04515.svg",
@@ -56,7 +56,7 @@
     "static/media/sydney.png": "/static/media/sydney.8fe86d35.png",
     "static/media/tic-tac-toe.png": "/static/media/tic-tac-toe.22049954.png",
     "static/media/tickpoints.png": "/static/media/tickpoints.9a8fbeb6.png",
-    "static/media/Hero.module.css": "/static/media/tim-kelly-b&w.5678d488.png",
+    "static/media/About.module.css": "/static/media/tim-kelly-b&w.5678d488.png",
     "static/media/to-do-list.png": "/static/media/to-do-list.61bd11a4.png",
     "static/media/tutor-subjects.png": "/static/media/tutor-subjects.cbfbce11.png",
     "static/media/tutor.png": "/static/media/tutor.c9cbea85.png",
@@ -64,8 +64,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.19ccc7f6.js",
-    "static/js/2.2b1378da.chunk.js",
-    "static/css/main.cf562bd5.chunk.css",
-    "static/js/main.724e8f8a.chunk.js"
+    "static/js/2.66cb5193.chunk.js",
+    "static/css/main.5b0446a3.chunk.css",
+    "static/js/main.64d6c220.chunk.js"
   ]
 }
