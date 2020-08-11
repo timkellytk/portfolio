@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b20e1fafbcaa23079d0e12650adbcb57",
+    "revision": "213c56962f8c4667f1b5156186234302",
     "url": "/index.html"
   },
   {
-    "revision": "87165b9a3d01f4440f12",
+    "revision": "3526967b27c5d7156868",
     "url": "/static/css/main.199acf25.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.01fb4fbf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "87165b9a3d01f4440f12",
-    "url": "/static/js/main.a80ed766.chunk.js"
+    "revision": "3526967b27c5d7156868",
+    "url": "/static/js/main.493babb5.chunk.js"
   },
   {
     "revision": "4f2b1704eab49d50853b",
@@ -176,8 +176,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/restaurant.68030828.png"
   },
   {
-    "revision": "1030eec3bf3dbf7bbdba2954fd159ae9",
-    "url": "/static/media/resume.1030eec3.pdf"
+    "revision": "e4725382e171ee4b9e12b5abe91276da",
+    "url": "/static/media/resume.e4725382.pdf"
   },
   {
     "revision": "c84e075c311c67f582ed84c91e651963",
