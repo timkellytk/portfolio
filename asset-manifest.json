@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.018aa17e.chunk.css",
-    "main.js": "/static/js/main.bf23cf7c.chunk.js",
-    "main.js.map": "/static/js/main.bf23cf7c.chunk.js.map",
+    "main.js": "/static/js/main.0e99be37.chunk.js",
+    "main.js.map": "/static/js/main.0e99be37.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
     "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
-    "static/js/2.a33853c6.chunk.js": "/static/js/2.a33853c6.chunk.js",
-    "static/js/2.a33853c6.chunk.js.map": "/static/js/2.a33853c6.chunk.js.map",
+    "static/js/2.eba6e115.chunk.js": "/static/js/2.eba6e115.chunk.js",
+    "static/js/2.eba6e115.chunk.js.map": "/static/js/2.eba6e115.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c36c9a6a5d6537490488925e325645f2.js": "/precache-manifest.c36c9a6a5d6537490488925e325645f2.js",
+    "precache-manifest.0518eab8f99da45fb44dcfc84016936f.js": "/precache-manifest.0518eab8f99da45fb44dcfc84016936f.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.018aa17e.chunk.css.map": "/static/css/main.018aa17e.chunk.css.map",
-    "static/js/2.a33853c6.chunk.js.LICENSE.txt": "/static/js/2.a33853c6.chunk.js.LICENSE.txt",
+    "static/js/2.eba6e115.chunk.js.LICENSE.txt": "/static/js/2.eba6e115.chunk.js.LICENSE.txt",
     "static/media/about.png": "/static/media/about.edac9f3a.png",
     "static/media/apple-2014-clone.png": "/static/media/apple-2014-clone.ea9b8c33.png",
     "static/media/arrow-icon.svg": "/static/media/arrow-icon.f792ea8c.svg",
@@ -62,7 +62,7 @@
     "static/media/ogHome.png": "/static/media/ogHome.d0703dc0.png",
     "static/media/ogPortfolio.png": "/static/media/ogPortfolio.9a85ed4d.png",
     "static/media/ogRambler.png": "/static/media/ogRambler.34d66db8.png",
-    "static/media/ogSculptrVR.png": "/static/media/ogSculptrVR.2c162d35.png",
+    "static/media/ogSculptrVR.png": "/static/media/ogSculptrVR.cb36ae93.png",
     "static/media/ogSketchbox.png": "/static/media/ogSketchbox.35919e99.png",
     "static/media/ogSwarm.png": "/static/media/ogSwarm.5d842531.png",
     "static/media/play-sculptrvr.png": "/static/media/play-sculptrvr.275e6fc1.png",
@@ -90,13 +90,14 @@
     "static/media/tutor.png": "/static/media/tutor.c9cbea85.png",
     "static/media/tutors-preview.png": "/static/media/tutors-preview.297f0ee7.png",
     "static/media/video-sculptrvr.png": "/static/media/video-sculptrvr.fb5f7590.png",
+    "static/media/waldo.png": "/static/media/waldo.32bf3a3c.png",
     "static/media/work.png": "/static/media/work.9b5c6c3c.png",
     "static/media/youtube-clone.png": "/static/media/youtube-clone.04b1998d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.19ccc7f6.js",
-    "static/js/2.a33853c6.chunk.js",
+    "static/js/2.eba6e115.chunk.js",
     "static/css/main.018aa17e.chunk.css",
-    "static/js/main.bf23cf7c.chunk.js"
+    "static/js/main.0e99be37.chunk.js"
   ]
 }
